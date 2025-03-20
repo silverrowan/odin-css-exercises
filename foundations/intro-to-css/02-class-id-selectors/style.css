@@ -1,6 +1,6 @@
 .alert {
     background-color: rgba(141, 88, 97, 0.863);
-    font-family: 'Verdana','DejaVuSans',sans-serif;
+    font-family: 'Verdana',"Deja VuSans",sans-serif;
     }
 #blu1 {
     color: rgb(39, 39, 168);
@@ -9,6 +9,5 @@
 .cool {font-size: 24px;}
 #greenb {
     background-color: #2cc72cc2;
-    font-size: 24px;
     font-weight: bold;
 }
